@@ -10,3 +10,4 @@
 | [22. Generate Parentheses](https://leetcode.com/playground/QirMwL2n) | Medium |
 | [39. Combination Sum](https://leetcode.com/playground/n3CLgbVn) | Medium |
 | [46. Permutations](https://leetcode.com/playground/oW8QY2Ae) | Medium |
+| [51. N Queens](https://leetcode.com/playground/kMVY2neG) | Hard |
